@@ -1,3 +1,4 @@
+#time module 
 import time
 
 wait_time = 1
